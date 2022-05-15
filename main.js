@@ -25,3 +25,7 @@ submit.addEventListener('submit', function result(e){
   if(q6 == 'quiz6') marks++
 
   var result = Math.floor( marks * 100 /(6)) + '%'
+
+  if(result >= 80 + '%' || result ==100 + '%'){
+    submit.innerHTML = 'You Scored' +' '+ result + 'Excellent!!'
+  }
