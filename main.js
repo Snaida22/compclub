@@ -35,3 +35,6 @@ submit.addEventListener('submit', function result(e){
   else if(result >0 +'%' || result<=49 + '%'){
    submit.innerHTML = 'You Scored' + ' ' + result + ' ' + 'Scored Poorly. Try Again'
   }
+  
+  submit.classList.add('big')
+})
