@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,4 +7,12 @@ body{
     background: greenyellow;
     color: #fff;
     overflow-y: visible;
+}
+form{
+    left: 50%;
+}
+form div p{
+    text-align: start;
+    width: 100%;
+    padding: 20px;
 }
