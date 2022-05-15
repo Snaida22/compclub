@@ -1,5 +1,6 @@
 body{
     justify-content: center;
+    
 }
 button {
     margin: 20px;
@@ -7,6 +8,9 @@ button {
     color: darkblue;
     background-color: chartreuse;
     font-size: 40px;
+    
+}
+button a {
     text-decoration: none;
 }
 ol {
