@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
 }
 body{
     background: rgb(99, 156, 13);
@@ -18,12 +19,11 @@ form div p{
     padding: 20px;
 }
 form #submit{
-    background-color: blue;
-    border-radius: 4px;
-    margin-bottom: 20px;
-    border: none;
-    padding: 3rem 5rem;
-    color: #fff;
+    margin: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: rgba(0, 81, 255, 0.671);
+    font-size: 40px;
 }
 #pO{
     padding: 10px;
