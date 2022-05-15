@@ -23,3 +23,5 @@ submit.addEventListener('submit', function result(e){
   if(q4 == 'quiz4') marks++
   if(q5 == 'quiz5') marks++
   if(q6 == 'quiz6') marks++
+
+  var result = Math.floor( marks * 100 /(6)) + '%'
