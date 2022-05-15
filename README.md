@@ -22,9 +22,12 @@ As a user of the application,you will be able to:
  * Access to internet
  
 ### Technology  Used
-* HTML - which was used to develop the structure off the pages.
-* CSS - which was used to style the User Interface and the page.
-* JS - Which was able to give functions and enable the accuracy of the scores.
+ * HTML - which was used to develop the structure off the pages.
+ * CSS - which was used to style the User Interface and the page.
+ * JS - Which was able to give functions and enable the accuracy of the scores.
+
+### Live link here
+ https://snaida22.github.io/compclub/
 
 ## Licence
 MIT License
