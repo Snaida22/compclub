@@ -16,3 +16,11 @@ form div p{
     width: 100%;
     padding: 20px;
 }
+form #submit{
+    background-color: blue;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    border: none;
+    padding: 5rem 3rem;
+    color: #fff;
+}
