@@ -29,3 +29,9 @@ submit.addEventListener('submit', function result(e){
   if(result >= 80 + '%' || result ==100 + '%'){
     submit.innerHTML = 'You Scored' +' '+ result + 'Excellent!!'
   }
+  else if(result >=50 + '%'){
+    submit.innerHTML = 'You Scored' + ' ' + result + ' ' + 'Fairly Passed!'
+  }
+  else if(result >0 +'%' || result<=49 + '%'){
+   submit.innerHTML = 'You Scored' + ' ' + result + ' ' + 'Scored Poorly. Try Again'
+  }
