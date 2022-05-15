@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: greenyellow;
+    background: rgb(99, 156, 13);
     color: #fff;
     overflow-y: visible;
 }
@@ -19,8 +19,16 @@ form div p{
 form #submit{
     background-color: blue;
     border-radius: 4px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border: none;
-    padding: 5rem 3rem;
+    padding: 3rem 5rem;
     color: #fff;
+}
+#pO{
+    padding: 10px;
+}
+.big{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
 }
