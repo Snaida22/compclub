@@ -16,3 +16,10 @@ submit.addEventListener('submit', function result(e){
   var q4 = document.quiz.question4.value;
   var q5 = document.quiz.question5.value;
   var q6 = document.quiz.question6.value;
+  
+  if(q1 == 'quiz1') marks++
+  if(q2 == 'quiz2') marks++
+  if(q3 == 'quiz3') marks++
+  if(q4 == 'quiz4') marks++
+  if(q5 == 'quiz5') marks++
+  if(q6 == 'quiz6') marks++
