@@ -21,8 +21,8 @@ form div p{
 form #submit{
     margin: 20px;
     font-weight: bold;
-    color: whitesmoke;
-    background-color: rgba(0, 81, 255, 0.671);
+    color: black;
+    background-color: chartreuse;
     font-size: 40px;
 }
 #pO{
